@@ -1,0 +1,17 @@
+AI-Youtube-Creator/
+│
+├── public/
+│   ├── index.html
+│   └── styles.css
+│
+├── src/
+│   ├── components/
+│   │   ├── Chat.js
+│   │   ├── Header.js
+│   │   └── Footer.js
+│   │
+│   ├── App.js
+│   └── index.js
+│
+├── package.json
+└── README.md
