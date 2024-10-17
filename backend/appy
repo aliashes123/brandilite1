@@ -1,0 +1,11 @@
+AI-Youtube-Creator/
+│
+├── app/
+│   ├── main.py
+│   ├── together_ai.py
+│   └── requirements.txt
+│
+├── frontend/
+│   └── (Your React frontend code here)
+│
+└── README.md
